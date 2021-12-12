@@ -5,9 +5,9 @@ I'm dedicated to carrying out projects and collaboration as a team to obtain a m
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gleguizamon&label=Profile%20views&color=fdbe15&style=flat" alt="gleguizamon" /> </p>
 
-- 🔭 I’m currently working on [phobiaDesign](https://github.com/gleguizamon/phobiaDesign)
+- 🔭 I’m currently working on [Estrato Project](https://github.com/gleguizamon/estrato)
 
-- 🌱 I’m currently learning frameworks and backend tools
+- 🌱 I’m currently learning more frontend libraries and backend tools
 
 - 💬 Ask me about anything [here](https://github.com/gleguizamon/gleguizamon/issues)
 
