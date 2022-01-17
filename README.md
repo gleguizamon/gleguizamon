@@ -1,7 +1,8 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Gonzalo</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-I'm dedicated to carry out projects and collaborate in teams to get other points of view and complement my knowledge. As a developer, I'm passionate about encouraging and promoting the technological development in which we live in order to face challenges more efficiently and achieve the goals set.
+I'm dedicated to carry out projects and collaborate in teams to get other points of view and complement my knowledge.
+As a developer, I am passionate about encouraging and promoting the technological development in which we live in order to face challenges more efficiently and achieve the established objectives.
 
 <img src="https://komarev.com/ghpvc/?username=gleguizamon&label=Profile%20views&color=fdbe15&style=flat" alt="profile-views"/>
 
