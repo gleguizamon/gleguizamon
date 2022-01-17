@@ -22,7 +22,9 @@ I'm dedicated to carrying out projects and collaboration as a team to obtain a m
 [<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"  alt="photoshop" width="40" height="40"/>](https://www.adobe.com/in/products/photoshop.html) [<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html) [<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)
 
 
-### Code stats since 5/10/2021:
+<h5 align="center">
+  Code stats since 5/10/2021
+</h5>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gleguizamon&layout=compact&theme=dracula" alt="wakatime-stats-failed"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gleguizamon&layout=compact&theme=dracula" alt="wakatime-stats-failed"  />
 </p>
