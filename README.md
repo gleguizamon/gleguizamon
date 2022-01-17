@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Gonzalo</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Gonzalo</h1>
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
 I'm dedicated to carrying out projects and collaboration as a team to obtain a more complex approach. As a developer, I like to be always learning new technologies and frameworks.
