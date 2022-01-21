@@ -6,8 +6,7 @@ As a developer, I am passionate about encouraging and promoting the technologica
 
 <img src="https://komarev.com/ghpvc/?username=gleguizamon&label=Profile%20views&color=fdbe15&style=flat" alt="profile-views"/>
 
-- 🔭 I’m currently working on [projects](https://github.com/gleguizamon?tab=repositories)
-- 🌱 I’m currently learning more frontend libraries and backend tools
+- 🌱 I’m currently learning backend tools
 - 💬 Ask me about anything [here](https://github.com/gleguizamon/gleguizamon/issues)
 - 👨‍💻 All of my projects are available at [gleguizamon.github.io](https://gleguizamon.github.io/)
 
