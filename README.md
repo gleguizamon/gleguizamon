@@ -17,66 +17,17 @@ As a developer, I am passionate about encouraging and promoting the technologica
 
 ### Skills:
 
-| Programming Languages | Frontend Development | Backend Development | Database | Data Visualization | Devops |
-|     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |     :---:     |
-| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)   | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com)[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org)     | [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>](https://www.elastic.co)     | [<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>](https://www.elastic.co/kibana)[<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>](https://www.chartjs.org)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>](https://circleci.com)
+| Programming Languages | Frontend Development | Backend Development | Database |
+|     :---:    |     :---:      |     :---:     |     :---:     |
+| [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)   | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com)[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org)     | [<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>](https://www.elastic.co)
 
-| Backend as a Service(BaaS) | Testing | Software | Static Site Generators | Other |
-|     :---:    |     :---:      |     :---:     |     :---:     |     :---:     |
-| [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>](https://heroku.com)[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)     | [<img  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io)[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io)     | [<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)[<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"  alt="photoshop" width="40" height="40"/>](https://www.adobe.com/in/products/photoshop.html)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com)     | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)[<img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
+| Data Visualization | Devops | Backend as a Service(BaaS) | Testing 
+|     :---:    |     :---:      |     :---:     |     :---:     |
+| [<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>](https://www.elastic.co/kibana)[<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>](https://www.chartjs.org)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com)[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>](https://circleci.com)     | [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>](https://heroku.com)[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)     | [<img  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io)[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io)
 
-
-#### Programming Languages
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>](https://www.python.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>](https://www.w3schools.com/cpp/)
-
-#### Frontend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>](https://www.w3.org/html/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>](https://www.w3schools.com/css/)
-
-#### Backend Development
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>](https://nodejs.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>](https://expressjs.com)
-[<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>](https://graphql.org)
-
-#### Database
-[<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/>](https://www.elastic.co)
-
-#### Data Visualization
-[<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/>](https://www.elastic.co/kibana)
-[<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>](https://www.chartjs.org)
-
-#### Devops
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>](https://aws.amazon.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>](https://www.docker.com/)
-[<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>](https://www.gnu.org/software/bash/)
-[<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>](https://circleci.com)
-
-#### Backend as a Service(BaaS)
-[<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>](https://heroku.com)
-[<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>](https://firebase.google.com/)
-
-#### Testing
-[<img  src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>](https://jestjs.io)
-[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>](https://www.cypress.io)
-
-#### Software
-[<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)
-[<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"  alt="photoshop" width="40" height="40"/>](https://www.adobe.com/in/products/photoshop.html)
-[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)
-[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)
-[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com)
-
-#### Static Site Generators
-[<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)
-
-
-#### Other
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)
-[<img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
+| Software | Static Site Generators | Other |
+|     :---:    |     :---:      |     :---:     |
+[<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)[<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"  alt="photoshop" width="40" height="40"/>](https://www.adobe.com/in/products/photoshop.html)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com)     | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)[<img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
 
 <h5 align="center">
   Code stats since 5/10/2021
