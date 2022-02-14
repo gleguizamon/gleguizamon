@@ -16,7 +16,7 @@ As a developer, I am passionate about encouraging and promoting the technologica
 
 
 ### Skills:
-<center>
+<div align="center">
 
 | Programming Languages | Frontend Development | Backend Development | Database |
 |     :---:    |     :---:      |     :---:     |     :---:     |
@@ -30,7 +30,7 @@ As a developer, I am passionate about encouraging and promoting the technologica
 |     :---:    |     :---:      |     :---:     |
 [<img src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="illustrator" width="40" height="40"/>](https://www.adobe.com/in/products/illustrator.html)[<img src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg"  alt="photoshop" width="40" height="40"/>](https://www.adobe.com/in/products/photoshop.html)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>](https://www.adobe.com/products/xd.html)[<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>](https://www.figma.com/)[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>](https://postman.com)     | [<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>](https://nextjs.org/)     | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>](https://www.linux.org/)[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>](https://git-scm.com/)[<img  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>](https://www.arduino.cc/)
 
-</center>
+</div>
 
 <h5 align="center">
   Code stats since 5/10/2021
