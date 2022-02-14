@@ -16,7 +16,7 @@ As a developer, I am passionate about encouraging and promoting the technologica
 
 
 ### Skills:
-<div align="center">
+<div align="left">
 
 | Programming Languages | Frontend Development | Backend Development | Database |
 |     :---:    |     :---:      |     :---:     |     :---:     |
