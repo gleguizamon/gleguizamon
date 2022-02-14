@@ -14,9 +14,8 @@ As a developer, I am passionate about encouraging and promoting the technologica
 ### Connect with me:
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>](https://linkedin.com/in/gleguizamon)
 
-
-### Skills:
-<div align="left">
+<div align="center">
+<h3>Skills</h3>
 
 | Programming Languages | Frontend Development | Backend Development | Database |
 |     :---:    |     :---:      |     :---:     |     :---:     |
