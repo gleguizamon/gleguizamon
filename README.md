@@ -8,7 +8,7 @@ As a developer, I am passionate about encouraging and promoting the technologica
 
 - 🌱 I’m currently learning backend tools
 - 💬 Ask me about anything [here](https://github.com/gleguizamon/gleguizamon/issues)
-- 👨‍💻 All of my projects are available at [gleguizamon.github.io](https://gleguizamon.github.io/)(DEPRECATED, WORKING ON A NEW ONE)
+- 👨‍💻 All of my projects are available at [gleguizamon.github.io](https://gleguizamon.github.io/) (DEPRECATED, WORKING ON A NEW ONE)
 
 
 ### Connect with me:
