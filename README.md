@@ -35,5 +35,5 @@ As a developer, I am passionate about encouraging and promoting the technologica
   Code stats since 5/10/2021
 </h5>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gleguizamon&layout=compact&theme=dracula" alt="wakatime-stats-failed"  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gleguizamon&layout=compact&theme=dracula&hide_title=true&hide=csv,mdx,text,git,markdown,scss,ini,other,bash" alt="wakatime-stats-failed"  />
 </p>
